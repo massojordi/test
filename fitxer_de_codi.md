@@ -1,11 +1,11 @@
 # Users
 
-- jordi
-- masso
-
+- Jordi
+- Masso
+- modificació segona versió
 
 
 ----
 # Creador
 
-Jordi
+Jordi Massó
